@@ -10,10 +10,10 @@ export default function Hero() {
         <div className="grid md:grid-cols-2 gap-12 items-center">
           <div className="text-center md:text-left">
             <h1 className="text-4xl md:text-6xl font-extrabold tracking-tight text-foreground mb-6 font-headline">
-              Your Universe of Entertainment Awaits
+              Your Destination for Captivating Dramas
             </h1>
             <p className="text-lg md:text-xl text-muted-foreground mb-8 max-w-xl mx-auto md:mx-0">
-              Unlimited movies, TV series, and more. Stream anytime, anywhere, on any device.
+              Dive into a world of intense emotions, compelling stories, and unforgettable characters. Your next favorite drama is just a click away.
             </p>
             <Button size="lg" className="bg-primary text-primary-foreground hover:bg-primary/90 transition-transform hover:scale-105" asChild>
               <Link href="#download">

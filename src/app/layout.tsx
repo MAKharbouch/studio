@@ -3,8 +3,8 @@ import './globals.css';
 import { Toaster } from "@/components/ui/toaster"
 
 export const metadata: Metadata = {
-  title: 'StreamVerse',
-  description: 'Your Universe of Entertainment',
+  title: 'DramaWatch',
+  description: 'Your destination for captivating dramas.',
 };
 
 export default function RootLayout({

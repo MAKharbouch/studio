@@ -21,7 +21,7 @@ export default function Screenshots() {
     <section id="screenshots" className="py-20 md:py-32 bg-background">
       <div className="container mx-auto px-4">
         <div className="text-center mb-16">
-          <h2 className="text-3xl md:text-4xl font-bold font-headline">A Glimpse Inside StreamVerse</h2>
+          <h2 className="text-3xl md:text-4xl font-bold font-headline">A Glimpse Inside DramaWatch</h2>
           <p className="text-lg text-muted-foreground mt-4 max-w-3xl mx-auto">
             Explore our intuitive and beautiful user interface designed for an immersive cinematic experience.
           </p>

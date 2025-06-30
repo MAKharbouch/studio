@@ -31,7 +31,7 @@ export default function Features() {
         <div className="text-center mb-16">
           <h2 className="text-3xl md:text-4xl font-bold font-headline">Everything You Need in a Streaming App</h2>
           <p className="text-lg text-muted-foreground mt-4 max-w-3xl mx-auto">
-            StreamVerse is packed with features that make your viewing experience seamless and enjoyable.
+            DramaWatch is packed with features that make your viewing experience seamless and enjoyable.
           </p>
         </div>
         <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">

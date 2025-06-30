@@ -8,10 +8,10 @@ export default function Footer() {
         <div className="flex flex-col md:flex-row justify-between items-center gap-4">
           <div className="flex items-center">
             <PlayCircle className="h-6 w-6 mr-2 text-primary" />
-            <span className="font-bold">StreamVerse</span>
+            <span className="font-bold">DramaWatch</span>
           </div>
           <div className="text-center md:text-right text-sm text-muted-foreground">
-            <p>&copy; {new Date().getFullYear()} StreamVerse. All Rights Reserved.</p>
+            <p>&copy; {new Date().getFullYear()} DramaWatch. All Rights Reserved.</p>
             <div className="mt-2">
               <Link href="#" className="hover:text-primary transition-colors">Terms of Service</Link>
               <span className="mx-2">|</span>

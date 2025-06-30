@@ -8,7 +8,7 @@ export default function Header() {
       <div className="container flex h-14 max-w-screen-2xl items-center">
         <Link href="/" className="mr-4 flex items-center">
           <PlayCircle className="h-6 w-6 mr-2 text-primary" />
-          <span className="font-bold">StreamVerse</span>
+          <span className="font-bold">DramaWatch</span>
         </Link>
         <div className="flex flex-1 items-center justify-end space-x-2">
           <Button asChild>
